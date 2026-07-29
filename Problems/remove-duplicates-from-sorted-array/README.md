@@ -1,14 +1,15 @@
-## [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+# Remove Duplicates from Sorted Array
 
-**Difficulty:** Unknown  
-**Language:** Unknown  
-**Tags:** None  
-**Date Submitted:** Wed, 29 Jul 2026 17:45:09 GMT
+https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
-### Repository Structure
-```
-Problems/
-└── remove-duplicates-from-sorted-array/
-    ├── README.md
-    └── solution.txt
-```
+---
+
+## Submission Information
+
+| Field | Value |
+|-------|-------|
+| Submission Date | Wed, 29 Jul 2026 18:07:09 GMT |
+
+---
+
+Generated automatically by **LeetVault** 🚀
