@@ -9,7 +9,6 @@ class Solution {
             }
             else{
                 current = current.next;
-            }
-        }
-        return head;
-        
+ * }
+ val; this.next = next; }
+ *     ListNode(int val, ListNode next) { this.val = 
