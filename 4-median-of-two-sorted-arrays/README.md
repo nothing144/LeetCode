@@ -59,7 +59,7 @@ Explanation: merged array = [1,2,3,4] and median is (2 + 3) / 2 = 2.5.
 | Field | Value |
 |-------|-------|
 | Language | Java |
-| Submission Date | Thu, 30 Jul 2026 12:16:19 GMT |
+| Submission Date | Thu, 30 Jul 2026 12:22:30 GMT |
 
 ---
 
