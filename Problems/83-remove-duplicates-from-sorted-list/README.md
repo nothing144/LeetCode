@@ -50,8 +50,7 @@ Output: [1,2,3]
 
 | Field | Value |
 |-------|-------|
-| Language | Java |
-| Submission Date | Thu, 30 Jul 2026 08:17:36 GMT |
+| Submission Date | Thu, 30 Jul 2026 08:19:03 GMT |
 
 ---
 
