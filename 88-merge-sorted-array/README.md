@@ -81,7 +81,7 @@ Note that because m = 0, there are no elements in nums1. The 0 is only there to 
 | Field | Value |
 |-------|-------|
 | Language | Java |
-| Submission Date | Sat, 08 Aug 2026 05:55:20 GMT |
+| Submission Date | Sat, 08 Aug 2026 08:42:44 GMT |
 
 ---
 
