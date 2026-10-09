@@ -9,7 +9,7 @@ class Solution {
         if(arr.length==1){
             return arr[0];
         }
-        int sum =0;
+        int sum =Integer.MIN_VALUE;
         for(int i=0; i<arr.length; i++){
             for(int j=i; j<arr.length; j++){
                 int newsum=0;
