@@ -18,7 +18,7 @@ class Solution {
         for(int i=1; i<right; i++){
             r = r.next;
         }
-        while(left!=right){
+        while(left<right){
             int temp = l.val;
             l.val = r.val;
             r.val=temp;
