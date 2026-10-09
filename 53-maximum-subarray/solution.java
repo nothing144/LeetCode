@@ -11,11 +11,9 @@ class Solution {
         }
         int sum =Integer.MIN_VALUE;
         for(int i=0; i<arr.length; i++){
+            int newsum=0;
             for(int j=i; j<arr.length; j++){
-                int newsum=0;
-                for(int k=i; k<=j; k++){
-                    newsum+=arr[k];
-                }
+                newsum += arr[j];
                 if(newsum>sum){
                     sum= newsum;
                 }
