@@ -6,6 +6,9 @@ class Solution {
         for(int i=0; i<arr.length;i++){
             currsum+=arr[i];
             if(currsum<0){
+                if(i==arr.length){
+                    return currsum;
+                }
                 currsum=0;
             }
             if(currsum>maxsum){
